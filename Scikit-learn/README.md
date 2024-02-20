@@ -1,0 +1,1 @@
+Demonstration showcasing the utilization of scikit-learn's KNearestNeighbours model for machine learning tasks, coupled with a comprehensive exploration of hyperparameter optimization techniques using GridSearch. 
