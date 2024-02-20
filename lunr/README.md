@@ -1,1 +1,1 @@
-Q
+Exploring the effectiveness of Lunr with this quick demonstration. Learn how to set up and utilize Lunr to create a powerful search engine for web applications. Harness its features to index data, perform searches, and deliver relevant results.
